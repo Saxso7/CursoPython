@@ -1,6 +1,6 @@
 calificacion = 7
 
-#Ternario, creamos condicion en una linea de codigo
+#Ternario, creamos condicion sobre una linea de codigo
 color = 'Verde' if calificacion >= 4 else 'Rojo'
 '''
 Esto seria lo normal
